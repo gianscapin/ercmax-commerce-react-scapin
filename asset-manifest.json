@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ercmax-commerce-react-scapin/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ercmax-commerce-react-scapin/static/js/main.01dd6b6d.chunk.js",
+    "main.js.map": "/ercmax-commerce-react-scapin/static/js/main.01dd6b6d.chunk.js.map",
+    "runtime-main.js": "/ercmax-commerce-react-scapin/static/js/runtime-main.d456f56d.js",
+    "runtime-main.js.map": "/ercmax-commerce-react-scapin/static/js/runtime-main.d456f56d.js.map",
+    "static/js/2.93f5bd90.chunk.js": "/ercmax-commerce-react-scapin/static/js/2.93f5bd90.chunk.js",
+    "static/js/2.93f5bd90.chunk.js.map": "/ercmax-commerce-react-scapin/static/js/2.93f5bd90.chunk.js.map",
+    "static/js/3.d83d9eaf.chunk.js": "/ercmax-commerce-react-scapin/static/js/3.d83d9eaf.chunk.js",
+    "static/js/3.d83d9eaf.chunk.js.map": "/ercmax-commerce-react-scapin/static/js/3.d83d9eaf.chunk.js.map",
+    "index.html": "/ercmax-commerce-react-scapin/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ercmax-commerce-react-scapin/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.93f5bd90.chunk.js.LICENSE.txt": "/ercmax-commerce-react-scapin/static/js/2.93f5bd90.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ercmax-commerce-react-scapin/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d456f56d.js",
+    "static/js/2.93f5bd90.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.01dd6b6d.chunk.js"
+  ]
+}
