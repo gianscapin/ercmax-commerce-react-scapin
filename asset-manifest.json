@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ercmax-commerce-react-scapin/static/css/main.f8e8b2e8.chunk.css",
-    "main.js": "/ercmax-commerce-react-scapin/static/js/main.95354623.chunk.js",
-    "main.js.map": "/ercmax-commerce-react-scapin/static/js/main.95354623.chunk.js.map",
+    "main.js": "/ercmax-commerce-react-scapin/static/js/main.727fd147.chunk.js",
+    "main.js.map": "/ercmax-commerce-react-scapin/static/js/main.727fd147.chunk.js.map",
     "runtime-main.js": "/ercmax-commerce-react-scapin/static/js/runtime-main.c0ddcd11.js",
     "runtime-main.js.map": "/ercmax-commerce-react-scapin/static/js/runtime-main.c0ddcd11.js.map",
     "static/js/2.6d25a682.chunk.js": "/ercmax-commerce-react-scapin/static/js/2.6d25a682.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c0ddcd11.js",
     "static/js/2.6d25a682.chunk.js",
     "static/css/main.f8e8b2e8.chunk.css",
-    "static/js/main.95354623.chunk.js"
+    "static/js/main.727fd147.chunk.js"
   ]
 }
